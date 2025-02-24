@@ -1,4 +1,4 @@
-# csv-to-html/csv-to-html/README.md
+# README.md
 
 # CSV to HTML Converter
 
@@ -7,7 +7,7 @@
 ## 文件结构
 
 ```
-csv-to-html
+
 ├── src
 │   ├── generateHtml.js       # 负责读取 CSV 文件并生成 HTML 文件
 │   └── utils
