@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-html",
+  "version": "1.0.0",
+  "description": "A project to convert CSV files to HTML format.",
+  "main": "src/generateHtml.js",
+  "scripts": {
+    "generate": "node src/generateHtml.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
