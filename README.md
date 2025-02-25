@@ -28,7 +28,7 @@
 2. **生成 HTML 文件**
    运行以下命令以读取 `urls.csv` 文件并生成 HTML 文件：
    ```
-   node src/generateHtml.js
+   npm run generate
    ```
 
 3. **查看生成的 HTML 文件**
@@ -39,4 +39,7 @@
 - 从 CSV 文件中读取数据
 - 将 CSV 数据转换为 HTML 表格
 - 生成完整的 HTML 文件以供浏览器查看
+
+## 注意：
+csv是以英文`,` 作为分隔符的，所以，中文中的逗号，注意不要写成英文逗号。
 
