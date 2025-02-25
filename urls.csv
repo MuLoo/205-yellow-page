@@ -1,3 +1,4 @@
 Name,Url,Description
+harbor,http://10.0.5.205:8888,DEV的镜像仓库服务，用于接收和管理镜像
 pledge,http://10.0.5.205:8083, 图片管家用户后台
 SEONaut,http://10.0.5.205:9000,SEONaut 是一个 web 应用程序，允许你对网站进行 SEO 分析
